@@ -4,7 +4,7 @@
 This repositroy contains the files for the little lemon restaurant assignment for the META frontend developer course.
 
 
-The original assignment was to crete a landing page for a fictional restaurant(Little lemon) which should be as interactive as possible. Instructions were given on the right color scheme(s) to use. But this repository contains the files for a website which was built off the original idea for the assignment. It contains a working contact form and product catalogue.
+The original assignment was to create a landing page for a fictional restaurant(Little lemon) which should be as interactive as possible. Instructions were given on the right color scheme(s) to use. But this repository contains the files for a website which was built off the original idea for the assignment. It contains a working contact form and product catalogue.
 
 ## Authors
 
