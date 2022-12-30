@@ -34,7 +34,7 @@ The original assignment was to crete a landing page for a fictional restaurant(L
 
 Project demo links
 
-- [Little lemon restaurant website (hosted on replit)](https://week-5.wbizmo.repl.co/index.html)
+- [Little lemon restaurant website (hosted on replit)](https://little-lemon.wbizmo.repl.co)
 ## Screenshots
 
 ![App Screenshot](https://scontent.flos1-2.fna.fbcdn.net/v/t39.30808-6/321676583_503951078500896_673004791672233701_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGrxIkdyXm4OI6Saq1LwjqBWHUkfgXBJkRYdSR-BcEmREgVtwz4gKh7ejHm3eCGGCG-V_8NCH-Jj4YpURJUFbUs&_nc_ohc=EzNHmeXgdsUAX8B7_p5&_nc_zt=23&_nc_ht=scontent.flos1-2.fna&oh=00_AfAg_6NHVer7C2yyf3t653H4-nddkqVmHf6UDyEYISTWKw&oe=63B4F2FA)
